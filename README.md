@@ -1,4 +1,4 @@
 # wsChatClient
-Terminal chat on web sockets
+CLI chat on websockets
 
 type /h for Help
